@@ -2,7 +2,9 @@
 
 Google Coin Jam problem
 
-I was introduced to Google Code Jam a while back and was asked to share my solution. I finally got around to it XD. A full description of the problem can be found here: https://code.google.com/codejam/contest/6254486/dashboard#s=p2
+I was introduced to Google Code Jam a while back and was asked to share my solution. I finally got around to it XD. The solution is written in c. I borrowed the prime list from I forget where, but the solution doesn't even use them all. My initial thoughts were to go through a huge list of primes, but it turned out to be inefficient because of its massive size. Going through a smaller subset speeds up the process substantially and still finds solutions.
+
+A full description of the problem can be found here: https://code.google.com/codejam/contest/6254486/dashboard#s=p2
 
 In case the link ever dies, here's the copy-pasta version:
 
